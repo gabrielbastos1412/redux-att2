@@ -22,7 +22,7 @@ export default function Carrinho() {
   }
 
 
-  // Novo codigo!!!
+  // Novo codigo!!!AS
   return (
     <div className="containerCart">
       <div style={{ width: "100%" }}>
